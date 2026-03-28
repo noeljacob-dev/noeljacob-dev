@@ -1,16 +1,48 @@
-## Hi there 👋
+## # Hi, I'm Noel 👋
 
-<!--
-**noeljacob-dev/noeljacob-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Developer from India
+🚀 Goal: Become a Software Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Currently Learning
+
+* Python (basics → advanced)
+* Problem Solving
+* Web Development (HTML, CSS, JavaScript)
+
+
+## 🛠️ Tools & Technologies
+
+* Python 🐍
+* Git & GitHub
+* VS Code
+
+
+## 📈 My Journey
+
+* 📅 Started coding in 2026
+* 📚 Learning consistently every day
+* 🔨 Building small projects every week
+
+
+## 📂 Projects (Coming Soon)
+
+* 🔹 Python Calculator
+* 🔹 Number Guessing Game
+* 🔹 Portfolio Website
+
+
+## 🎯 2026 Goals
+
+* Build 10+ projects
+* Learn DSA basics
+* Contribute on GitHub regularly
+
+
+## 📫 Connect with me:
+
+www.linkedin.com/in/noel-james-jacob-063495346
+
+
+⭐ *“Learning step by step, building something every day.”*
+
