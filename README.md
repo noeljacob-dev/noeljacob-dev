@@ -13,7 +13,7 @@
 
 ## 🛠️ Tools & Technologies
 
-* Python 🐍
+* Python 
 * Git & GitHub
 * VS Code
 
